@@ -25,6 +25,7 @@ This repository is designed for beginners and intermediate developers who want t
 - Parameters & Return Types
 - Default Arguments
 - Lambda Functions
+- higher order function
 
 ### Object-Oriented Programming
 - Classes & Objects
